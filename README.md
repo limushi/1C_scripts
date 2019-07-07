@@ -1,2 +1,2 @@
 # 1C_scripts
-Some useful scripts for 1C
+Несколько полезных скриптов, позволяющих работать с 1C, исключительно из консоли Linux/Windows.
